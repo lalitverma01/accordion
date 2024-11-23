@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url(root.css);
+
+.bg-color {
+    background-color: #F6E300 !important;
+}
+
+.pb-24 {
+    padding-bottom: 24px !important;
+}
+
+.pt-24 {
+    padding-top: 24px !important;
+}
+
+.heading {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.para {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    ;
+    line-height: 32.4px;
+    opacity: 70%;
+    padding-left: 20px;
+    padding-bottom: 19px;
+    max-width: 866px;
+}
+
+.accordion {
+    width: 992px;
+    --bs-accordion-border-color: none !important;
+}
+
+.accordion-item-1 {
+    margin-bottom: 10px;
+}
+
+.background-color {
+    background-color: #FFF03F !important;
+}
+
+
+/******** section2 ********/
+
+.head-1 {
+    background: -webkit-linear-gradient(180deg, #815CC8 0%, #1BABFE 100%);
+    background-clip: text;
+    /* width: 100%; */
+    color: transparent;
+}
+
+.head {
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: left;
+    /* width: 100%; */
+}
+
+.bg-img {
+    background-image: url(../images/Group\ 34668.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading-1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.heading-2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.para-1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: white;
+    opacity: 70%;
+    /* padding-bottom: 16px; */
+    padding-left: 12px;
+}
+
+.accordion-item-2 {
+    margin-bottom: 20px;
+    padding-left: 20px;
+    border-radius: 6px;
+    border: 1px solid;
+    border-image-source: linear-gradient(90.28deg, rgba(255, 255, 255, 0.13) 0%, rgba(255, 255, 255, 0.03) 99.96%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.03) 100%);
+    backdrop-filter: blur(10px)
+}
+
+.accordion-2 {
+    width: 1038px;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+
+.bg-img-2 {
+    background-image: url(../images/Group\ 34677.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/********* section 3 *********/
+
+
+
+.accordion-item-3 {
+    margin-top: 33px !important;
+    border: 1px solid #1EADB6 !important;
+    box-shadow: #1EADB6 !important;
+    border-top-left-radius: 45px !important;
+    border-bottom-right-radius: 32px !important;
+}
+
+.max-w-899 {
+    max-width: 899px !important;
+}
+
+.rb-svg {
+    bottom: -3.9%;
+    right: -0.1%;
+}
+
+.accordion-button-3 {
+    background-color: none !important;
+}
+
+.line-height-24 {
+    line-height: 24px !important;
+}
+
+.line-height-29 {
+    line-height: 29.26px;
+}
+
+/* .faq {
+    font-family: "Audiowide", sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 81.59px;
+    text-align: center;
+    color: white;
+}
+
+.accordion-item-3 {
+    border: 1px solid #1EADB6 !important;
+    backdrop-filter: blur(800px) !important;
+    border-radius: 52px 0px 40px 0px !important;
+}
+
+.accordion-flush {
+    background-color: none !important;
+}
+
+.heading-3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.para-2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.accordion-item {
+    margin-bottom: 30px;
+    border-radius: 50px;
+} */

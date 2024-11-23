@@ -1,0 +1,51 @@
+.accordion {
+    --bs-accordion-border-color: none !important;
+    --bs-accordion-color: none !important;
+    --bs-accordion-active-color: none !important;
+    --bs-accordion-active-bg: none !important;
+    --bs-accordion-border-color: none !important;
+    --bs-accordion-border-color: none !important;
+    --bs-accordion-bg: none !important;
+    --bs-accordion-btn-bg: none !important;
+    /* --bs-accordion-btn-active-icon: black !important; */
+}
+
+.accordion-button:not(.collapsed) {
+    box-shadow: none !important;
+}
+
+.accordion-button:focus {
+    box-shadow: none !important;
+}
+
+/* section-1 */
+
+.poppins {
+    font-family: var(--poppins);
+}
+
+.bg-dark-yellow {
+    background-color: var(--bg-dark-yellow);
+}
+
+.fs-48px {
+    font-size: var(--fs-48px);
+}
+
+/* section-3 */
+.audiowide {
+    font-family: var(--audiowide);
+}
+
+.montserrat {
+    font-family: var(--montserrat);
+}
+
+:root {
+    --poppins: "Poppins", sans-serif;
+    --fs-18px: 18px;
+    --fs-48px: 48px;
+    --fw-500: 500;
+    --audiowide: "Audiowide", sans-serif;
+    --montserrat: "Montserrat", sans-serif;
+}
