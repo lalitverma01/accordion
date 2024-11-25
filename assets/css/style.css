@@ -97,8 +97,11 @@
     line-height: 27px;
     color: white;
     opacity: 70%;
-    /* padding-bottom: 16px; */
-    padding-left: 12px;
+    padding-left: 35px;
+}
+
+.pt-10 {
+    padding-top: 4px;
 }
 
 .accordion-item-2 {

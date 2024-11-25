@@ -24,10 +24,6 @@
     font-family: var(--poppins);
 }
 
-.bg-dark-yellow {
-    background-color: var(--bg-dark-yellow);
-}
-
 .fs-48px {
     font-size: var(--fs-48px);
 }
